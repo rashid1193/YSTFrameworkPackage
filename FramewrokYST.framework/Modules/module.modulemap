@@ -1,0 +1,6 @@
+framework module FramewrokYST {
+  umbrella header "FramewrokYST.h"
+
+  export *
+  module * { export * }
+}
